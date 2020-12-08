@@ -15,6 +15,12 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h4 {
+    font-size: 1.2em;
+    background-color: rgb(226, 58, 58);
+    clear: both;
+}
+
 main {
     margin: 0 auto;
     width: 700px;
@@ -40,15 +46,21 @@ footer {
     text-align: center;
     padding-bottom: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
 }
 
 
 /* specifieke stijlen */
 
+.character-text {
+    float: 
+}
+
 img.index1 {
     float: left;
-    height: 200px;
+    height: 150px;
     margin-right: 15px;
+    margin-bottom: 15px;
     border: groove;
     padding: 5px;
     border-color: rgb(226, 58, 58);
@@ -56,8 +68,9 @@ img.index1 {
 
 img.index2 {
     float: right;
-    height: 200px;
+    height: 150px;
     margin-left: 15px;
+    margin-bottom: 15px;
     border: groove;
     padding: 5px;
     border-color: rgb(226, 58, 58);
