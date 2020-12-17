@@ -52,13 +52,9 @@ footer {
 
 /* specifieke stijlen */
 
-.character-text {
-    float: 
-}
-
 img.index1 {
     float: left;
-    height: 150px;
+    height: 200px;
     margin-right: 15px;
     margin-bottom: 15px;
     border: groove;
@@ -68,7 +64,7 @@ img.index1 {
 
 img.index2 {
     float: right;
-    height: 150px;
+    height: 200px;
     margin-left: 15px;
     margin-bottom: 15px;
     border: groove;
